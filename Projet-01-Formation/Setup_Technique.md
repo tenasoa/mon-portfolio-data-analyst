@@ -10,8 +10,6 @@ $ conda --version
 conda 25.5.1
 ```
 
-**Test de Jupyter** :![](C:\Users\Tenasoa\Pictures\Screenshots\Capture d'écran 2025-11-22 232746.png)
-
 **☑️ Checklist Python** :
 
 - [x]  Anaconda installé
